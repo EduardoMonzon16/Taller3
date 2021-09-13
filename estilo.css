@@ -1,0 +1,8 @@
+#cabeceraprincipal {
+    background-image: url("../img/logo1.png"), url("../img/avengers.jpg");
+    background-position: top left, 100% center;
+    background-repeat: no-repeat, repeat;
+    background-origin: border-box, content-box;
+    color:  white;
+    height: min-content;
+}
